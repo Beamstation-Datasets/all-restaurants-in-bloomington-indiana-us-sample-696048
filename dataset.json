@@ -6,17 +6,17 @@
   "config_category": "census",
   "config_description": "Restaurant intelligence dataset for Bloomington, Indiana. Filtered by the Restaurants category group with business profiles, ratings, competitive metrics, and contact details. Refreshed weekly.",
   "config_name": "All Restaurants in Bloomington, Indiana, US",
-  "export_job_id": "686964af-50de-42b1-97f8-aa406733d64c",
+  "export_job_id": "578a4caa-f9e9-4a7e-ab45-f2684fa8a6f7",
   "github_org": "Beamstation-Datasets",
   "id_short": 696048,
   "location_name": "Bloomington",
   "location_type": "city",
   "repo_name": "all-restaurants-in-bloomington-indiana-us-sample-696048",
   "sample_b2_path": "b2-export:BeamStation-ExportFiles/696048/beamstation_696048_restaurants-us-in_SAMPLE_DIST.csv",
-  "sample_pct": 9.86,
+  "sample_pct": 10.0,
   "sample_records": 35,
-  "sample_sha256": "50f73578fb8fc28e3af57203a24402ab19123e068ce0f6fdefdb42976352c733",
-  "sample_size_bytes": 136859,
-  "total_records": 355,
-  "updated_at": "2026-04-09T15:54:05.650829+00:00"
+  "sample_sha256": "8bbef95e62277a9f948f412418a261d62e2d4d8b49f1689618964dbb187cb066",
+  "sample_size_bytes": 130717,
+  "total_records": 350,
+  "updated_at": "2026-04-16T18:43:01.801536+00:00"
 }
