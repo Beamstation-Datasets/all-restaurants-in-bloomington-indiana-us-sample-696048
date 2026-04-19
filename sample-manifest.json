@@ -1,12 +1,12 @@
 {
-  "export_job_id": "686964af-50de-42b1-97f8-aa406733d64c",
+  "export_job_id": "578a4caa-f9e9-4a7e-ab45-f2684fa8a6f7",
   "id_short": 696048,
-  "published_at": "2026-04-14T19:44:53Z",
+  "published_at": "2026-04-19T19:25:15Z",
   "repo_name": "all-restaurants-in-bloomington-indiana-us-sample-696048",
   "sample_asset_name": "beamstation_696048_restaurants-us-in_SAMPLE_DIST.csv",
   "sample_b2_path": "b2-export:BeamStation-ExportFiles/696048/beamstation_696048_restaurants-us-in_SAMPLE_DIST.csv",
   "sample_records": 35,
-  "sample_sha256": "50f73578fb8fc28e3af57203a24402ab19123e068ce0f6fdefdb42976352c733",
-  "sample_size_bytes": 136859,
-  "total_records": 355
+  "sample_sha256": "8bbef95e62277a9f948f412418a261d62e2d4d8b49f1689618964dbb187cb066",
+  "sample_size_bytes": 130717,
+  "total_records": 350
 }
